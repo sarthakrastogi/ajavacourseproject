@@ -40,7 +40,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#"><span class="glyphicon glyphicon-globe"></span> Logo</a>
+                <a class="navbar-brand" href="#"><span class="glyphicon glyphicon-globe"></span></a>
             </div>
             <!-- Navbar links -->
             <div class="collapse navbar-collapse" id="navbar">
@@ -50,13 +50,7 @@
                     </li> 
                 </ul>
 
-				<!-- Search -->
-				<form class="navbar-form navbar-right" role="search">
-					<div class="form-group">
-						<input type="text" class="form-control">
-					</div>
-					<button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span> Search</button>
-				</form>
+
 
             </div>
             <!-- /.navbar-collapse -->
@@ -75,22 +69,6 @@
 
 
 			<!-- Text Panel -->
-			<div class="panel panel-default">
-				<div class="panel-heading">
-					<h3 class="panel-title">
-						<span class="glyphicon glyphicon-bullhorn"></span> 
-						Active Predomination
-					</h3>
-				</div>
-				<div class="panel-body">
-					<p>Proactively envisioned multimedia based expertise and cross-media growth strategies.</p>
-					<div class="btn-group" role="group">
-						<button type="button" class="btn btn-default">Resource</button>
-						<button type="button" class="btn btn-default">Envision</button>
-						<button type="button" class="btn btn-default">Niche</button>
-					</div>
-				</div>
-			</div>	
 				
 		</div><!--/Left Column-->
   
@@ -101,7 +79,7 @@
 			<!-- Alert -->
 			<div class="alert alert-success alert-dismissible" role="alert">
 				<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				Welcome to our simple java application
+				AJAVA Final Project by Sarthak Rastogi, 5DSML
 			</div>		
 		
 			<!-- Articles -->
@@ -146,16 +124,6 @@
 
 	</div><!--/container-fluid-->
 	
-	<footer>
-        
-        <div class="small-print">
-        	<div class="container">
-        		<p><a href="#">Terms &amp; Conditions</a> | <a href="#">Privacy Policy</a> | <a href="#">Contact</a></p>
-        		<p>Copyright &copy; Example.com 2015 </p>
-        	</div>
-        </div>
-	</footer>
-
 	
     <!-- jQuery -->
     <script src="resources/js/jquery-1.11.3.min.js"></script>
